@@ -1,0 +1,42 @@
+
+#submitButton
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#sortButton
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+input
+{
+	margin: 10px;
+}
+
+#displayNameWithoutCommas
+{
+	border: 1px solid rgb(13, 61, 101);
+    padding: 10px;
+    background-color: rgb(79, 126, 183);
+	border-radius: 10px;
+    width: 50%;
+}
+
+
+body
+{
+    background: linear-gradient(#355d6a 0%, #84b6d5 100%);
+}
+
+h3
+{
+    font-size: 30px;
+}
+
+h5
+{
+    font-size: 20px;
+}
